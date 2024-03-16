@@ -1,0 +1,27 @@
+{
+    "create": {
+        "user": {
+            "name": "Test User",
+            "email": "user@test.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Pagar fatura do cartão",
+            "tags": [
+                "nubank",
+                "inter",
+                "itau"
+            ]
+        }
+    },
+    "duplicate": {
+        "user": {
+            "name": "Test User Dup",
+            "email": "userdup@test.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Fazer compras no mercado"
+        }
+    }
+}

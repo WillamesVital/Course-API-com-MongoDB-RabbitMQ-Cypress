@@ -1,0 +1,30 @@
+{
+    "login": {
+        "name": "Margo Robbi",
+        "email": "margo@hotmail.com",
+        "password": "pwd123"
+    },
+    "inv_pass": {
+        "email": "margo@hotmail.com",
+        "password": "pwd123456"
+    },
+    "email_404": {
+        "email": "404@hotmail.com",
+        "password": "pwd123456"
+    },
+    "create": {
+        "name": "Willames Vital",
+        "email": "willames@test.com",
+        "password": "pwd123" 
+    },
+    "dup_email": {
+        "name": "James Gunn",
+        "email": "james@hotmail.com",
+        "password": "pwd123"
+    },
+    "required": {
+        "name": "James Gunn",
+        "email": "james@hotmail.com",
+        "password": "pwd123"
+    }
+}
