@@ -1,0 +1,27 @@
+{
+    "remove": {
+        "user": {
+            "name": "Aragorn Elessar",
+            "email": "aragorn@lotr.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Me tornar rei",
+            "tags": [
+                "gondor",
+                "rei",
+                "espada"
+            ]
+        }
+    },
+    "not_found": {
+        "user": {
+            "name": "Bruce Wayne",
+            "email": "bruce@batman.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Dar um jeito no coringa"
+        }
+    }
+}
